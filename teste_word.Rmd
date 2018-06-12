@@ -8,12 +8,13 @@ output: word_document
 
 - abor o git bash na pasta
 
-```
 ls # lista os arquivos da pasta
 git init # iniciar um repositório
 git status # mostra o status dos arquivos presentes no repositório
 git add # começar a monitorar os arquivos
-```
+git commit -m "commit inicial" #
+git config --global user.email rhewter@gmail.com
+git config --global user.name rhewter
 
 
 
